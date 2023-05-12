@@ -1,0 +1,12 @@
+C:\Users\batis\source\repos\MyEnglish\MyEnglish.Helper\bin\Debug\net6.0\MyEnglish.Helper.deps.json
+C:\Users\batis\source\repos\MyEnglish\MyEnglish.Helper\bin\Debug\net6.0\MyEnglish.Helper.dll
+C:\Users\batis\source\repos\MyEnglish\MyEnglish.Helper\bin\Debug\net6.0\MyEnglish.Helper.pdb
+C:\Users\batis\source\repos\MyEnglish\MyEnglish.Helper\obj\Debug\net6.0\MyEnglish.Helper.csproj.AssemblyReference.cache
+C:\Users\batis\source\repos\MyEnglish\MyEnglish.Helper\obj\Debug\net6.0\MyEnglish.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batis\source\repos\MyEnglish\MyEnglish.Helper\obj\Debug\net6.0\MyEnglish.Helper.AssemblyInfoInputs.cache
+C:\Users\batis\source\repos\MyEnglish\MyEnglish.Helper\obj\Debug\net6.0\MyEnglish.Helper.AssemblyInfo.cs
+C:\Users\batis\source\repos\MyEnglish\MyEnglish.Helper\obj\Debug\net6.0\MyEnglish.Helper.csproj.CoreCompileInputs.cache
+C:\Users\batis\source\repos\MyEnglish\MyEnglish.Helper\obj\Debug\net6.0\MyEnglish.Helper.dll
+C:\Users\batis\source\repos\MyEnglish\MyEnglish.Helper\obj\Debug\net6.0\refint\MyEnglish.Helper.dll
+C:\Users\batis\source\repos\MyEnglish\MyEnglish.Helper\obj\Debug\net6.0\MyEnglish.Helper.pdb
+C:\Users\batis\source\repos\MyEnglish\MyEnglish.Helper\obj\Debug\net6.0\ref\MyEnglish.Helper.dll
